@@ -1,0 +1,1031 @@
+@media only screen and (min-width:1800px) {
+  .container {
+    width: 1550px;
+  }
+}
+
+@media only screen and (min-width:1900px) {
+  .container {
+    width: 1700px;
+  }
+}
+
+@media only screen and (min-width:2000px) {
+  .container {
+    width: 1700px;
+  }
+}
+
+@media only screen and (min-width:2500px) {
+  .container {
+    width: 2000px;
+  }
+}
+
+@media only screen and (max-width:1800px) {
+  .categories_stip ul li a {
+    font-size: 16px;
+    margin: 0px 20px;
+  }
+  .navbar-default .navbar-nav>li>a {
+    padding: 18px 20px 18px 0px;
+    margin: 6px 20px 6px 0px;
+    font-size: 16px;
+    line-height: 16px;
+  }
+  .navbar-default .navbar-nav>li>a.freelancebtn {
+    padding: 15px 20px;
+    margin: 6px 0px 6px 0px;
+    font-size: 16px;
+    line-height: 16px;
+  }
+  .navbar-brand {
+    margin: 10px 15px 10px 0px;
+  }
+  section.banner .tag_line h1, .another_headerpage h1 span, .another_headerpage h1 span {
+    font-size: 41px;
+  }
+  section.banner .tag_line h1, .another_headerpage h1 {
+    font-size: 39px;
+    line-height: 43px;
+  }
+  .heading {
+    font-size: 39px;
+    line-height: 43px;
+    margin: 0px 0px 55px 0px;
+  }
+  section.banner .banner_search .search_input input {
+    padding: 12px 10px 12px 45px;
+    font-size: 18px;
+  }
+  .btn_style {
+    font-size: 18px;
+  }
+  .banner_content .btn_style {
+    padding: 12px;
+  }
+  section.banner .banner_search p {
+    font-size: 16px;
+  }
+  section.banner .knowmore {
+    font-size: 18px;
+  }
+  .choose_div {
+    min-height: 160px;
+  }
+  .choose_div p {
+    font-size: 15px;
+    line-height: 18px;
+  }
+  .choose_img {
+    width: 80px;
+    height: 80px;
+  }
+  section.trending_wrapper .trendonline_offline, section.trending_wrapper .trendstatus {
+    font-size: 14px;
+  }
+  section.trending_wrapper .trend_ratingstatus, section.trending_wrapper .rating_wrapper span {
+    font-size: 12px;
+  }
+  section.trending_wrapper .trendingpersonimg {
+    width: 80px;
+    height: 80px;
+    top: -40px;
+  }
+  section.trending_wrapper .trendinglittleinfo {
+    margin-top: 10px;
+  }
+  section.trending_wrapper .trendpersonname {
+    font-size: 19px;
+  }
+  section.trending_wrapper .trendpersondegination {
+    font-size: 14px;
+  }
+  section.trending_wrapper .trendpersonlocation {
+    font-size: 14px;
+  }
+  #trending_slider .owl-item .trendstatus img {
+    width: 19px;
+  }
+  #trending_slider .owl-item .trend_ratingstatus img {
+    width: 15px;
+    margin-top: -2px;
+  }
+  section.trending_wrapper .trending_body ul.ratingul li {
+    padding-right: 0px;
+  }
+  section.trending_wrapper .trending_body ul.ratingul li i {
+    font-size: 13px;
+  }
+  .rating_wrapper .col-md-6.col-sm-6.col-xs-6:first-of-type {
+    padding-right: 0;
+  }
+  .rating_wrapper .col-md-6.col-sm-6.col-xs-6:last-of-type {
+    padding-left: 0;
+  }
+  section.trending_wrapper .trending_list .trending_listtitle {
+    font-size: 17px;
+  }
+  section.trending_wrapper .trending_list ul li span.person_degination {
+    font-size: 16px;
+    line-height: 16px;
+  }
+  section.trending_wrapper .trending_list ul li span.person_company {
+    font-size: 15px;
+  }
+  section.trending_wrapper .trending_footer .btn_style {
+    padding: 10px 12px;
+    font-size: 14px;
+  }
+  section.trending_wrapper .trending_footer .trendtiming span {
+    font-size: 19px;
+  }
+  section.trending_wrapper .trending_footer {
+    padding: 10px 0px;
+  }
+  .hire_scope .hire_scope_div .hire_scope_info span {
+    font-size: 21px;
+  }
+  .hire_scope .hire_scope_div .hire_scope_info p {
+    font-size: 17px;
+    line-height: 30px;
+  }
+  section.payment_services .payment_info h5 {
+    font-size: 21px;
+  }
+  section.payment_services .payment_info p {
+    font-size: 16px;
+  }
+  section.asktheexperts .expertdiv p {
+    font-size: 19px;
+    line-height: 38px;
+    margin-bottom: 30px;
+  }
+  .hire_scope .hire_scopeimg .hirescopeimg_wrapper {
+    width: 120px;
+    height: 120px;
+  }
+  .hire_scope .hire_scopeimg .hirescopeimg_wrapper img {
+    padding: 25px;
+  }
+  section.righttools ul li, section.we_work p, section.testimonial .testimonial_content p {
+    font-size: 19px;
+    line-height: 38px;
+  }
+  section.righttools ul li:nth-child(1):after, section.righttools ul li:nth-child(2):after, section.righttools ul li:nth-child(3):after {
+    width: 30px;
+    height: 30px;
+    top: 10px;
+  }
+  section.righttools ul:after {
+    left: 15px;
+  }
+  section.righttools .tablet {
+    width: 650px;
+    height: 667px;
+  }
+  section.righttools .tablet_bg {
+    width: 440px;
+    height: 421px;
+    margin-left: 70px;
+  }
+  section.we_work .process_info p {
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 18px;
+  }
+  section.we_work .process_title {
+    font-size: 19px;
+  }
+  .search_line, .document_line, .chat_line {
+    width: 260px;
+    height: 120px;
+  }
+  .search_line, .chat_line {
+    transform: rotate(0deg);
+    top: 68px;
+    left: calc(100% - 145px);
+  }
+  .document_line {
+    transform: rotate(5deg);
+    top: 68px;
+    left: calc(100% - 150px);
+  }
+  .process_searchimg, .process_documentimg, .process_chatimg, .process_doneimg {
+    width: 120px;
+    height: 120px;
+  }
+  section.find_freelance_agency p {
+    font-size: 20px;
+    line-height: 41px;
+  }
+  section.testimonial .testimonial_content h5 {
+    font-size: 22px;
+  }
+  section.testimonial .testimonial_content span {
+    font-size: 16px;
+  }
+  section.testimonial .slidearrow i {
+    font-size: 30px;
+  }
+  footer .footer_header h6 {
+    font-size: 18px;
+  }
+  footer .footer_header ul li a {
+    font-size: 17px;
+    line-height: 26px;
+    margin-bottom: 26px;
+  }
+  footer .newsletter input#email {
+    font-size: 18px;
+    padding: 10px 15px;
+  }
+  .footer_bottom_stip p, .footer_bottom_stip span {
+    font-size: 17px;
+    padding-top: 7px;
+  }
+  .another_headerpage {
+    padding: 100px 0px;
+  }
+}
+
+@media only screen and (max-width:1600px) {
+  section.righttools .tablet_bg {
+    margin-left: 39px;
+  }
+  section.righttools .tablet {
+    left: 18px;
+  }
+  .search_line, .chat_line {
+    transform: rotate(-5deg);
+    top: 68px;
+    left: calc(100% - 145px);
+  }
+  .document_line {
+    transform: rotate(9deg);
+    top: 68px;
+    left: calc(100% - 130px);
+  }
+  .search_line, .document_line, .chat_line {
+    width: 260px;
+    height: 120px;
+  }
+  .choose_img {
+    width: 70px;
+    height: 70px;
+  }
+}
+
+@media only screen and (max-width:1400px) {
+  .choose_div {
+    min-height: 150px;
+  }
+  .choose_img {
+    width: 70px;
+    height: 70px;
+  }
+  .categories_stip ul li a {
+    font-size: 14px;
+    margin: 0px 20px;
+  }
+  .categories_stip {
+    padding: 15px 0px;
+  }
+  .navbar-default .navbar-nav>li>a {
+    padding: 15px 20px 15px 0px;
+    margin: 6px 20px 6px 0px;
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .navbar-default .navbar-nav>li>a.freelancebtn {
+    padding: 15px 20px;
+    margin: 6px 0px 6px 0px;
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .navbar-brand {
+    width: 130px;
+    height: 34px;
+  }
+  section.banner .tag_line h1, .another_headerpage h1 span, .another_headerpage h1 span {
+    font-size: 37px;
+  }
+  .another_headerpage span.current_page {
+    font-size: 14px;
+  }
+  section.banner .tag_line h1, .another_headerpage h1 {
+    font-size: 35px;
+    line-height: 39px;
+  }
+  .heading {
+    font-size: 35px;
+    line-height: 39px;
+  }
+  section.banner .banner_search .search_input input {
+    padding: 10px 10px 10px 45px;
+    font-size: 16px;
+  }
+  .btn_style {
+    font-size: 16px;
+  }
+  .banner_content .btn_style {
+    padding: 10px;
+  }
+  section.banner .banner_search p {
+    font-size: 14px;
+  }
+  section.banner .knowmore {
+    font-size: 16px;
+  }
+  .choose_div p {
+    font-size: 13px;
+    line-height: 16px;
+  }
+  section.trending_wrapper .trendonline_offline, section.trending_wrapper .trendstatus, section.trending_wrapper .trendpersondegination, section.trending_wrapper .trendpersonlocation {
+    font-size: 12px;
+  }
+  section.trending_wrapper .trend_ratingstatus, section.trending_wrapper .rating_wrapper span {
+    font-size: 12px;
+  }
+  section.trending_wrapper .trendinglittleinfo {
+    margin-top: 10px;
+  }
+  section.trending_wrapper .trendpersonname {
+    font-size: 15px;
+  }
+  #trending_slider .owl-item .trendstatus img {
+    width: 19px;
+  }
+  #trending_slider .owl-item .trend_ratingstatus img {
+    width: 15px;
+    margin-top: -2px;
+  }
+  section.trending_wrapper .trending_body ul.ratingul li {
+    padding-right: 0px;
+  }
+  section.trending_wrapper .trending_body ul.ratingul li i {
+    font-size: 13px;
+  }
+  section.trending_wrapper .trending_list .trending_listtitle {
+    font-size: 15px;
+  }
+  section.trending_wrapper .trending_list ul li span.person_degination {
+    font-size: 14px;
+    line-height: 14px;
+  }
+  section.trending_wrapper .trending_list ul li span.person_company {
+    font-size: 13px;
+  }
+  section.trending_wrapper .trending_footer .btn_style {
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+  section.trending_wrapper .trending_footer .trendtiming span {
+    font-size: 19px;
+  }
+  section.trending_wrapper .trending_footer {
+    padding: 10px 0px;
+  }
+  section.trending_wrapper .trending_header {
+    padding: 10px 0px;
+  }
+  .hire_scope .hire_scope_div .hire_scope_info span {
+    font-size: 18px;
+  }
+  .hire_scope .hire_scope_div .hire_scope_info p {
+    font-size: 15px;
+    line-height: 29px;
+  }
+  section.payment_services .payment_info h5 {
+    font-size: 18px;
+  }
+  section.payment_services .payment_info p {
+    font-size: 14px;
+  }
+  section.asktheexperts .expertdiv p {
+    font-size: 15px;
+    line-height: 34px;
+    margin-bottom: 25px;
+  }
+  section.asktheexperts .expertimg {
+    width: 350px;
+    height: 350px;
+  }
+  section.righttools ul li {
+    padding-bottom: 30px;
+  }
+  section.righttools ul li, section.we_work p, section.testimonial .testimonial_content p {
+    font-size: 15px;
+    line-height: 34px;
+  }
+  section.righttools .tablet {
+    width: 550px;
+    height: 565px;
+  }
+  section.righttools .tablet_bg {
+    width: 390px;
+    height: 395px;
+  }
+  section.we_work .process_info p {
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 16px;
+  }
+  section.find_freelance_agency p {
+    font-size: 16px;
+    line-height: 23px;
+  }
+  section.testimonial .testimonial_content p:first-of-type {
+    margin-top: 20px;
+  }
+  section.testimonial .testimonial_person {
+    width: 320px;
+    height: 320px;
+  }
+  section.testimonial .testimonial_personbg {
+    width: 375px;
+    height: 359px;
+    left: 11px;
+  }
+  footer .footer_header h6 {
+    font-size: 16px;
+  }
+  footer .footer_header ul li a {
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 24px;
+  }
+  footer .newsletter input#email {
+    font-size: 16px;
+    padding: 10px 15px;
+  }
+  .footer_bottom_stip p, .footer_bottom_stip span {
+    font-size: 15px;
+    padding-top: 9px;
+  }
+  .search_line, .chat_line {
+    transform: rotate(0deg);
+    top: 68px;
+    left: calc(100% - 145px);
+  }
+  .document_line {
+    transform: rotate(5deg);
+    top: 68px;
+    left: calc(100% - 130px);
+  }
+  .search_line, .document_line, .chat_line {
+    width: 260px;
+    height: 120px;
+  }
+  .another_headerpage .btn_style {
+    padding: 10px 15px;
+  }
+}
+
+@media only screen and (max-width:1200px) {
+  .choose_div {
+    min-height: 130px;
+  }
+  .choose_img {
+    width: 60px;
+    height: 60px;
+  }
+  .categories_stip ul li a {
+    font-size: 12px;
+    margin: 0px 5px;
+  }
+  .navbar-default .navbar-nav>li>a {
+    padding: 14px 20px 14px 0px;
+    margin: 3px 20px 3px 0px;
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .navbar-default .navbar-nav>li>a.freelancebtn {
+    padding: 14px 20px;
+    margin: 3px 0px 3px 0px;
+    font-size: 12px;
+    line-height: 12px;
+  }
+  .navbar-brand {
+    width: 110px;
+    height: 28px;
+  }
+  section.banner .tag_line h1, .another_headerpage h1 span, .another_headerpage h1 span {
+    font-size: 34px;
+  }
+  section.banner .tag_line h1, .another_headerpage h1 {
+    font-size: 32px;
+    line-height: 36px;
+  }
+  .heading {
+    font-size: 32px;
+    line-height: 36px;
+    margin: 0px 0px 45px 0px;
+  }
+  section.banner .banner_search .search_input input {
+    padding: 10px 10px 10px 45px;
+    font-size: 14px;
+  }
+  section.banner .banner_search {
+    width: 500px;
+    margin: 40px auto auto;
+  }
+  section.banner .banner_search .search_input i {
+    left: 15px;
+    font-size: 16px;
+  }
+  .btn_style {
+    font-size: 14px;
+  }
+  .banner_content .btn_style {
+    padding: 10px;
+  }
+  section.banner .banner_search p {
+    font-size: 12px;
+  }
+  section.banner .knowmore {
+    font-size: 14px;
+  }
+  section.find_freelance_agency {
+    padding: 40px 10px;
+  }
+  .choose_div p {
+    font-size: 11px;
+    line-height: 14px;
+  }
+  section.trending_wrapper .trendonline_offline span.dots {
+    width: 5px;
+    height: 5px;
+  }
+  section.trending_wrapper .trendonline_offline, section.trending_wrapper .trendstatus, section.trending_wrapper .trendpersondegination, section.trending_wrapper .trendpersonlocation {
+    font-size: 10px;
+  }
+  #trending_slider .owl-item .trendstatus img {
+    width: 14px;
+  }
+  section.trending_wrapper .trendinglittleinfo {
+    margin-top: 20px;
+  }
+  section.trending_wrapper .rating_wrapper {
+    padding: 3px 0px 5px 0px;
+  }
+  section.trending_wrapper .trend_ratingstatus {
+    margin-top: 4px;
+  }
+  section.trending_wrapper .trend_ratingstatus, section.trending_wrapper .rating_wrapper span {
+    font-size: 10px;
+  }
+  #trending_slider .owl-item .trend_ratingstatus img {
+    width: 13px;
+    margin-top: -2px;
+  }
+  section.trending_wrapper .trending_body ul.ratingul li i {
+    font-size: 10px;
+  }
+  section.trending_wrapper .trending_list .trending_listtitle {
+    font-size: 13px;
+  }
+  section.trending_wrapper .trending_list ul li span.person_degination {
+    font-size: 12px;
+    line-height: 12px;
+  }
+  section.trending_wrapper .trending_list ul li span.person_company {
+    font-size: 11px;
+  }
+  section.trending_wrapper .trending_footer .btn_style {
+    padding: 10px 12px;
+    font-size: 11px;
+  }
+  section.trending_wrapper .trending_footer .trendtiming span {
+    font-size: 16px;
+  }
+  section.trending_wrapper .trending_footer {
+    padding: 10px 0px;
+  }
+  section.trending_wrapper .trending_header {
+    padding: 10px 0px;
+  }
+  .hire_scope .hire_scope_div .hire_scope_info span {
+    font-size: 16px;
+  }
+  .hire_scope .hire_scope_div .hire_scope_info p {
+    font-size: 15px;
+    line-height: 27px;
+  }
+  section.payment_services .payment_info h5 {
+    font-size: 16px;
+  }
+  section.payment_services .payment_info p {
+    font-size: 15px;
+    line-height: 27px;
+  }
+  section.asktheexperts .expertdiv p {
+    font-size: 16px;
+    line-height: 32px;
+    margin-bottom: 22px;
+  }
+  section.righttools ul li, section.we_work p, section.testimonial .testimonial_content p {
+    font-size: 16px;
+    line-height: 32px;
+  }
+  section.asktheexperts .expertimg {
+    width: 300px;
+    height: 300px;
+  }
+  section.asktheexperts .expertImg_bg {
+    width: 350px;
+    height: 336px;
+  }
+  section.righttools .tablet {
+    width: 500px;
+    height: 513px;
+    left: 13px;
+    top: -140px;
+  }
+  section.righttools .tablet_bg {
+    width: 350px;
+    height: 335px;
+  }
+  .process_searchimg, .process_documentimg, .process_chatimg, .process_doneimg {
+    width: 100px;
+    height: 100px;
+  }
+  footer .footer_header h6 {
+    font-size: 14px;
+  }
+  footer .footer_header ul li a {
+    font-size: 13px;
+    line-height: 15px;
+    margin-bottom: 15px;
+  }
+  footer .newsletter input#email {
+    font-size: 13px;
+    padding: 10px 15px;
+  }
+  .footer_bottom_stip ul.social_icon_list li a {
+    width: 25px;
+    height: 25px;
+  }
+  .footer_bottom_stip ul.social_icon_list li a i {
+    font-size: 13px;
+  }
+  footer .newsletter .btn_style {
+    font-size: 13px;
+  }
+  .footer_bottom_stip p, .footer_bottom_stip span {
+    font-size: 13px;
+    padding-top: 3px;
+  }
+  .search_line, .chat_line {
+    transform: rotate(-15deg);
+    top: 68px;
+    left: calc(100% - 145px);
+  }
+  .document_line {
+    transform: rotate(14deg);
+    top: 68px;
+    left: calc(100% - 130px);
+  }
+  .search_line, .document_line, .chat_line {
+    width: 260px;
+    height: 120px;
+  }
+  section.righttools .table_wrapper {
+    padding-bottom: 80px;
+  }
+}
+
+@media only screen and (max-width:991px) {
+  .another_headerpage span.current_page {
+    font-size: 11px;
+  }
+  section.righttools .table_wrapper {
+    padding-bottom: 40px;
+  }
+  section.testimonial .testimonial_person {
+    width: 240px;
+    height: 240px;
+    margin-top: 11px;
+    margin-left: 12px;
+  }
+  section.testimonial .testimonial_personbg {
+    width: 270px;
+    height: 259px;
+    left: 0px;
+  }
+  section.asktheexperts .expertsimg_div {
+    width: auto;
+  }
+  section.asktheexperts .expertimg {
+    width: 240px;
+    height: 240px;
+  }
+  section.asktheexperts .expertimg {
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  section.asktheexperts .expertImg_bg {
+    width: 270px;
+    height: 259px;
+  }
+  section.banner .tag_line h1, .another_headerpage h1 span, .another_headerpage h1 span {
+    font-size: 27px;
+  }
+  section.banner .tag_line h1, .another_headerpage h1 {
+    font-size: 25px;
+    line-height: 27px;
+  }
+  .heading {
+    font-size: 25px;
+    line-height: 27px;
+    margin: 0px 0px 45px 0px;
+  }
+  .hire_scope .hire_scope_div {
+    margin: 20px 0px;
+  }
+  section.righttools .tablet {
+    left: 0px;
+    top: -100px;
+    width: 380px;
+    height: 390px;
+  }
+  section.righttools .tablet_bg {
+    margin-left: -22px;
+    margin-top: -60px;
+    width: 310px;
+    height: 297px;
+  }
+  section.testimonial .testimonial_user_wrapper {
+    margin-top: 60px;
+    position: relative;
+  }
+  section.find_freelance_agency {
+    padding: 30px 10px;
+  }
+  section.find_freelance_agency .btn_style {
+    margin-top: 15px;
+  }
+  section.chooseservice, footer, section.testimonial, section.find_freelance_agency, section.find_freelance, section.trending_wrapper, section.trusted_client, section.hire_scope, section.asktheexperts, section.payment_services, section.righttools, section.we_work {
+    margin: 60px 0px 0px 0px;
+  }
+  .choose_div {
+    padding: 10px 5px;
+  }
+  .choose_img {
+    width: 50px;
+    height: 50px;
+  }
+  .choose_div p {
+    font-size: 10px;
+    line-height: 12px;
+  }
+  .choose_parentdiv:first-of-type {
+    margin-left: 10px;
+  }
+  .choose_parentdiv:last-of-type {
+    margin-right: 10px;
+  }
+  .choose_div {
+    min-height: 100px;
+}
+  .choose_parentdiv {
+    width: calc(16.66% - 20px);
+    margin: 10px;
+  }
+  .choose_contentwrapper .choose_parentdiv {
+    width: calc(16.66% - 20px);
+    margin: 10px;
+  }
+}
+
+@media only screen and (max-width:767px) {
+  header.fixed .categories_stip {
+    display: none;
+  }
+  .navbar-default .navbar-collapse .navbar_collapse_inner {
+    position: fixed;
+    width: 270px;
+    right: -335px;
+    z-index: 2;
+    bottom: 0;
+    top: 0;
+    -webkit-transition: right 0.5s ease-in-out;
+    -moz-transition: right 0.5s ease-in-out;
+    -ms-transition: right 0.5s ease-in-out;
+    -o-transition: right 0.5s ease-in-out;
+    transition: right 0.5s ease-in-out;
+    background: #fff;
+  }
+  .navbar-collapse.active .menuopenbg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    background-color: #000;
+    filter: alpha(opacity=50);
+    opacity: .5;
+  }
+  .navbar-collapse.active .navbar_collapse_inner {
+    right: 0px;
+  }
+  .navbar-collapse .navbar_collapse_inner .navbar-nav {
+    margin: 0px;
+    padding: 20px 0px;
+    text-align: center;
+  }
+  .navbar-collapse .navbar_collapse_inner .navbar-nav li a {
+    margin: 0;
+  }
+  .categories_stip {
+    display: none;
+  }
+  .navbar-brand {
+    margin: 10px 15px 10px 15px;
+  }
+  .navbar-header {
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    background: #fff;
+  }
+  .navbar-header.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    animation: smoothScroll 1s forwards;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, .25);
+  }
+  @keyframes smoothScroll {
+    0% {
+      transform: translateY(-40px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+  span.menuClose {
+    position: absolute;
+    right: 275px;
+    top: 10px;
+    cursor: pointer;
+  }
+  section.banner .banner_search {
+    width: 280px;
+  }
+  section.banner .banner_search .search_btn {
+    margin-left: calc(100% - 80px);
+  }
+  section.banner .banner_search .search_input {
+    width: calc(100% - 90px);
+  }
+  .trending_wrapper {
+    padding: 0px 10px 0px 10px
+  }
+  .animated_heading {
+    width: 20%;
+  }
+  .hire_scope .hire_scope_div .hire_scopeimg, .hire_scope .hire_scope_div .hire_scope_info {
+    width: 100%;
+    float: none;
+    text-align: center;
+  }
+  .hire_scope .hire_scopeimg .hirescopeimg_wrapper {
+    margin: 0 auto 20px auto;
+  }
+  .hire_scope .hire_scope_div:nth-child(2n+1) .hire_scopeimg .hirescopeimg_wrapper {
+    margin: 0 auto 20px auto;
+  }
+  .hire_scope .hire_scope_div:nth-child(2n+1) .hire_scope_info {
+    width: 100%;
+    float: none;
+    text-align: center;
+  }
+  .hire_scope .hire_scope_div {
+    margin: 10px 0px;
+  }
+  section.payment_services .payment_div {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  section.payment_services .payment_option {
+    margin: 0 auto;
+  }
+  section.asktheexperts {
+    text-align: center;
+  }
+  section.asktheexperts .expertdiv .heading {
+    text-align: center;
+  }
+  section.asktheexperts .expertimg {
+    margin: 40px auto 40px auto;
+  }
+  section.asktheexperts .expertImg_bg {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: -33px;
+  }
+  section.righttools .table_wrapper {
+    display: inline-block;
+    padding-bottom: 10px;
+  }
+  .table_wrapper .col-md-6.col-sm-6.col-xs-12:last-of-type {
+    position: relative;
+    width: 320px;
+    margin: 0 auto;
+    display: table;
+    float: none;
+  }
+  section.righttools .tablet_bg {
+    width: 250px;
+    height: 239px;
+    margin: 0 auto;
+    margin-left: 2px;
+    margin-top: -6px;
+  }
+  section.righttools .tablet {
+    width: 315px;
+    height: 323px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .process_search, .process_document, .process_chat, .process_done {
+    width: 100%;
+    float: none;
+    padding: 20px;
+  }
+  .search_line, .chat_line {
+    transform: rotate(114deg)!important;
+    top: calc(50% + 50px);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+  }
+  .search_line, .document_line, .chat_line {
+    width: 130px;
+    height: 60px;
+  }
+  .document_line {
+    display: none;
+  }
+  section.testimonial .testimonial_user_wrapper {
+    margin-top: 60px;
+    position: relative;
+    margin: 20px auto;
+    display: table;
+  }
+  .testimonial_content {
+    text-align: center;
+  }
+  .slidearrow {
+    display: table;
+    margin: 0 auto;
+  }
+  .clearboth_mobile {
+    display: inline-block;
+    width: 100%;
+  }
+  .footer_bottom_stip {
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+  }
+  .footer_bottom_stip .Followus_div {
+    display: table;
+    float: none;
+    margin: 0 auto;
+  }
+  .footer_bottom_stip p, .footer_bottom_stip span {
+    text-align: center;
+  }
+  .choose_parentdiv {
+    width: calc(33.33% - 20px);
+    margin: 10px;
+  }
+  .choose_contentwrapper .choose_parentdiv {
+    width: calc(33.33% - 20px);
+    margin: 10px;
+  }
+  .choose_div {
+    padding: 20px 5px;
+  }
+  .footer_bottom_stip ul.social_icon_list {
+    padding-left: 7px;
+  }
+}
+
+@media only screen and (max-width:639px) {}
+
+@media only screen and (max-width:580px) {}
+
+@media only screen and (max-width:420px) {}
+
+@media only screen and (max-width:380px) {}
+
+@media only screen and (max-width:370px) {}
+
+@media only screen and (max-width:359px) {}

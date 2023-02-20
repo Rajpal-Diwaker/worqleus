@@ -1,0 +1,308 @@
+@media only screen and (min-width:1800px) {
+  .container {
+    width: 1550px;
+  }
+}
+
+@media only screen and (min-width:1900px) {
+  .container {
+    width: 1700px;
+  }
+}
+
+@media only screen and (min-width:2000px) {
+  .container {
+    width: 1700px;
+  }
+}
+
+@media only screen and (min-width:2500px) {
+  .container {
+    width: 2000px;
+  }
+}
+
+@media only screen and (max-width:1800px) {
+  header .signup_box span {
+    font-size: 20px;
+  }
+  .btn_style {
+    font-size: 20px;
+  }
+  .content .heading h1 {
+    font-size: 35px;
+    margin-bottom: 12px;
+  }
+  .form_div .form-group p, .heading p {
+    font-size: 20px;
+    padding-top: 6px;
+  }
+  .form_div .form-control {
+    font-size: 20px;
+    padding: 15px;
+  }
+  .form_div .btn_style.submit {
+    padding: 15px 100px;
+  }
+  .signwithdiv span {
+    font-size: 20px;
+    margin-top: -27px;
+  }
+  .footer_bottom_stip p, .footer_bottom_stip span {
+    font-size: 20px;
+  }
+  .content .formwidth {
+    width: 550px;
+  }
+  .image_section h2 {
+    font-size: 34px;
+    line-height: 36px;
+    margin-bottom: 40px;
+  }
+  .content .heading {
+    margin-bottom: 30px;
+  }
+  .forgot_imgwrapper .forgot_img {
+    margin-bottom: 30px;
+}
+.form-group.forgot_imgwrapper {
+   margin-bottom: 20px;
+}
+}
+
+@media only screen and (max-width:1600px) {
+  header .signup_box span {
+    font-size: 18px;
+  }
+  .logo_div img {
+    width: 176px;
+  }
+  .btn_style {
+    font-size: 18px;
+    padding: 10px 35px;
+  }
+  .content .heading h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  .form_div .form-group p, .heading p {
+    font-size: 18px;
+  }
+  .form_div .form-control {
+    font-size: 18px;
+    padding: 15px;
+  }
+  .form_div .btn_style.submit {
+    padding: 15px 100px;
+  }
+  .signwithdiv span {
+    font-size: 18px;
+  }
+  .footer_bottom_stip p, .footer_bottom_stip span {
+    font-size: 18px;
+    padding-top: 4px;
+  }
+  .content .formwidth {
+    width: 500px;
+  }
+  .content_section {
+    padding-left: 150px;
+  }
+  footer.fixedfooter.fixed {
+    left: 150px;
+  }
+  .footerpattern {
+    width: 137px;
+    height: 273px;
+  }
+  .footer_bottom_stip ul.social_icon_list li a {
+    width: 35px;
+    height: 35px;
+  }
+  .footer_bottom_stip ul.social_icon_list li a i {
+    font-size: 19px;
+  }
+  .signwiththis ul li a {
+    width: 40px;
+    height: 40px;
+    background-size: 40px 120px;
+  }
+  .signwiththis ul li a.google {
+    background-position: 0px 0px;
+  }
+  .signwiththis ul li a.facebook {
+    background-position: 0px -40px;
+  }
+  .signwiththis ul li a.twitter {
+    background-position: 0px -80px;
+  }
+  .content .heading {
+    margin-bottom: 25px;
+  }
+  .forgot_imgwrapper .forgot_img {
+    margin-bottom: 25px;
+}
+}
+
+@media only screen and (max-width:1400px) {
+  .forgot_img img {
+    width: 200px;
+}
+  .image_section h2 {
+    font-size: 29px;
+    line-height: 31px;
+  }
+  header .signup_box span {
+    font-size: 16px;
+  }
+  .logo_div img {
+    width: 170px;
+  }
+  .btn_style {
+    font-size: 16px;
+    padding: 10px 35px;
+  }
+  .content .heading h1 {
+    font-size: 30px;
+  }
+  .content .heading {
+    margin-bottom: 40px;
+  }
+  .forgot_imgwrapper .forgot_img {
+    margin-bottom: 40px;
+  }
+  .form_div .form-group p, .heading p {
+    font-size: 16px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+  }
+  .form_div .form-control {
+    font-size: 16px;
+    padding: 15px;
+  }
+  .form_div .btn_style.submit {
+    padding: 15px 100px;
+  }
+  .signwithdiv span {
+    font-size: 16px;
+  }
+  .footer_bottom_stip p, .footer_bottom_stip span {
+    font-size: 16px;
+    padding-top: 7px;
+  }
+}
+
+@media only screen and (max-width:1300px) {
+  .image_section h2 {
+    font-size: 26px;
+    line-height: 28px;
+  }
+  .footer_bottom_stip ul.social_icon_list li {
+    margin-right: 7px;
+  }
+  header .signup_box span {
+    font-size: 15px;
+  }
+  .logo_div img {
+    width: 170px;
+  }
+  .btn_style {
+    font-size: 15px;
+    padding: 10px 35px;
+    border-radius: 10px;
+  }
+  .content .heading h1 {
+    font-size: 28px;
+  }
+  .form_div .form-group p, .heading p {
+    font-size: 15px;
+    padding-top: 0px;
+    margin-bottom: 13px;
+  }
+  .form_div .form-control {
+    font-size: 15px;
+    padding: 14px;
+    border-radius: 10px;
+  }
+  .form_div .btn_style.submit {
+    padding: 14px 100px;
+  }
+  .signwithdiv span {
+    font-size: 15px;
+  }
+  .footer_bottom_stip p, .footer_bottom_stip span {
+    font-size: 15px;
+    padding-top: 7px;
+  }
+}
+
+@media only screen and (max-width:1170px) {
+  .fixedfooter{
+    display: none;
+  }
+  .mobile_footer{
+    display: block;
+  }
+  .footerpattern {
+    display: none;
+  }
+  .content .formwidth {
+    width: 90%;
+}
+  #wrapper {
+    display: block;
+  }
+  footer.fixedfooter.fixed {
+    left: 0px;
+  }
+  .content_section {
+    width: 100%;
+    float: none;
+    min-height: auto;
+    padding-left: 0px;
+  }
+  .image_section {
+    width: 100%;
+    float: none;
+    padding: 130px 10px
+  }
+  .image_section_innertext {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    transform: none;
+}
+}
+@media only screen and (max-width:767px) {
+  .image_section {
+    padding: 60px 10px
+  }
+  .footer_bottom_stip {
+    display: block;
+  }
+  .footer_bottom_stip p, .footer_bottom_stip span {
+    text-align: center;
+}
+.forgot_img img{
+  width:190px;
+}
+.footer_bottom_stip .Followus_div {
+  display: table;
+  float: none;
+  margin: 0 auto;
+}
+.logo_div {
+  margin: auto;
+  display: table;
+  margin-bottom: 20px;
+}
+header .signup_box {
+  text-align: center;
+}
+header .signup_box span {
+  margin-bottom: 20px;
+  display: block;
+}
+}
